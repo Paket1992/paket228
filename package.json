@@ -1,6 +1,6 @@
 {
   "name": "paket228",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "study",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Paket1992/paket228.git"
   },
   "dependencies": {
-    "leleka258": "1.0.0"
+    "leleka258": "1.0.1"
   },
   "author": "",
   "license": "ISC",
