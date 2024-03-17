@@ -1,6 +1,6 @@
 {
   "name": "paket228",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "study",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "leleka258": "1.0.1",
-    "pmarkvunka456": "1.0.3"
+    "markvunka456": "1.0.3"
   },
   "author": "",
   "license": "ISC",
