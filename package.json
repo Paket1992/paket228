@@ -11,7 +11,8 @@
     "url": "https://github.com/Paket1992/paket228.git"
   },
   "dependencies": {
-    "leleka258": "1.0.1"
+    "leleka258": "1.0.1",
+    "pmarkvunka456": "1.0.3"
   },
   "author": "",
   "license": "ISC",
