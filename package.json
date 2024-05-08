@@ -1,6 +1,6 @@
 {
   "name": "paket228",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "study",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,18 @@
   },
   "dependencies": {
     "leleka258": "1.0.1",
-    "markvunka456": "1.0.3"
+    "markvunka456": "1.0.3",
+    "minti_fulkerson": "1.0.1",
+    "morvunka228": "1.0.3",
+    "trukytnuk": "1.0.3",
+    "malesenka123": "1.0.3",
+    "malesenka2580130": "1.0.4",
+    "smetanka": "1.0.2",
+    "molodozeleno": "1.0.0",
+    "leleka2580130": "1.0.2",
+    "galetska222": "1.0.2",
+    "kotysuk": "1.0.3",
+    "kysokkakashku": "1.0.0"
   },
   "author": "",
   "license": "ISC",
